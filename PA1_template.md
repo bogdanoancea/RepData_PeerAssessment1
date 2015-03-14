@@ -9,7 +9,7 @@
     <meta http-equiv="Content-Language" content="en">
     
     
-    <title>RepData_PeerAssessment1/README.md at master · Nykter/RepData_PeerAssessment1</title>
+    <title>RepData_PeerAssessment1/PA1_template.md at master · Nykter/RepData_PeerAssessment1</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -32,7 +32,7 @@
     <meta name="selected-link" value="repo_source" data-pjax-transient>
       <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="BC1AE8E6:51F2:1D12C69:55042B44" name="octolytics-dimension-request_id" /><meta content="9313914" name="octolytics-actor-id" /><meta content="bogdanoancea" name="octolytics-actor-login" /><meta content="1c2e1ab8eba2117721d7c17a5df288db760707d6cc5aaa64e4c3672b117c1e78" name="octolytics-actor-hash" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="BC1AE8E6:51F2:1D12C3D:55042B44" name="octolytics-dimension-request_id" /><meta content="9313914" name="octolytics-actor-id" /><meta content="bogdanoancea" name="octolytics-actor-login" /><meta content="1c2e1ab8eba2117721d7c17a5df288db760707d6cc5aaa64e4c3672b117c1e78" name="octolytics-actor-hash" />
     
     <meta content="Rails, view, blob#show" name="analytics-event" />
 
@@ -41,7 +41,7 @@
 
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="CJekgcshQgQI5K+P4s4CRvVxw+PDmXa/wh56NQNDDutyRqfRbGbm+c0GqoI7EYQTyBcJnDGD9W+td7xb78t0Zg==" name="csrf-token" />
+<meta content="dUBftUxi4ouKZqoG5lXk6wiQGKRkvtYATjyPU2MFE3YdmM2I14O9fKFTIcmduWMwow8gEN//fel1dW/ySOhhxA==" name="csrf-token" />
 
     <link href="https://assets-cdn.github.com/assets/github-85e4ac99403eefa73664d9b122f27095fee8b7333e67f34fa34480ae497f7555.css" media="all" rel="stylesheet" />
     <link href="https://assets-cdn.github.com/assets/github2-901780fdaaa6b0f56b2004899a7a24194bf4217cc7864291a9f68fa3a9264fdf.css" media="all" rel="stylesheet" />
@@ -153,7 +153,7 @@
   </li>
 
   <li class="header-nav-item">
-    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ZBDLKN4/sYTBT2k7XkKVLM1W/IIKU4Pwyc0MN6H3kHNG4eVwQTqvEHzPrDGAT3GVpr0Q74Ui3WV+G3WlxfL4QA==" /></div>
+    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Fg+E7w2I8L+OVHP2h3k/ET8Ec2xD/wnK/BaKIr5OAiv1gZQPvrqrN9hV3SNrBuLXWEzsG3JfRsu5qrpSUAOkJw==" /></div>
       <button class="header-nav-link sign-out-button tooltipped tooltipped-s" aria-label="Sign out" data-ga-click="Header, sign out, icon:logout">
         <span class="octicon octicon-sign-out"></span>
       </button>
@@ -182,7 +182,7 @@
 <ul class="pagehead-actions">
 
   <li>
-      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="el9tvfm7IhI2UMVusXXD0duYRJ4SqDwuPiKdaAtL+YHUGDji1mDPMrGFCbnJouw+OuQ2cCjh558GL8D0C8H5/A==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="25326338" />
+      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ANc6b8tiArQHeFJ4axOXf24dizDFN10EdRiAOFCKjiAO7YmfZGuDaaJcFDe1g5DLoDhTTBCJzeiG7RdPx0uSHw==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="25326338" />
 
       <div class="select-menu js-menu-container js-select-menu">
         <a href="/Nykter/RepData_PeerAssessment1/subscription"
@@ -257,7 +257,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <form accept-charset="UTF-8" action="/Nykter/RepData_PeerAssessment1/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="BpYLqMTgqxQxV9Oi/wZhOTDkPBl6Xo3usw1mIJFDtxhK3/sOdNdxOvA+jA1lGMX3E09DeiygFwVOKv4RvnU/eg==" /></div>
+    <form accept-charset="UTF-8" action="/Nykter/RepData_PeerAssessment1/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="UTt00lex5sqR4EcCG/A3zq1MFgaLEHl6z9su0JsjWEj/o3Da7vdxvlXnnGlvdBmFL6NB1RUFBoom6w5j3eufOQ==" /></div>
       <button
         class="minibutton with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar Nykter/RepData_PeerAssessment1"
@@ -269,7 +269,7 @@
           0
         </a>
 </form>
-    <form accept-charset="UTF-8" action="/Nykter/RepData_PeerAssessment1/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="criuWJVYN1KjirIQkTndFPgPg6aJmt+TXxyehEntNL5lzNDZizwNnTip9KSF7S2UQK5qmnwRZ2FaUQdPm2fcjg==" /></div>
+    <form accept-charset="UTF-8" action="/Nykter/RepData_PeerAssessment1/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="P5dymGpqqsB3jS6XL8r7y0hUronpHZs6dB0axbT92xxhytW+Xl1eLQR5Sf+HukJIddw9EaxP8nu7iO9FIReQZg==" /></div>
       <button
         class="minibutton with-count js-toggler-target"
         aria-label="Star this repository" title="Star Nykter/RepData_PeerAssessment1"
@@ -285,7 +285,7 @@
   </li>
 
         <li>
-          <form accept-charset="UTF-8" action="/Nykter/RepData_PeerAssessment1/fork" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="C8huf30pOveB3NSxuF27yAQ5JEHPGidA+MXbyBwdJCFVJd/nP2d7j/9QlGB+KL7RLEFDLMgt27k9XDToy2uidA==" /></div>
+          <form accept-charset="UTF-8" action="/Nykter/RepData_PeerAssessment1/fork" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="LS1Kspp4gy4rvSZCPxzPlLXGdsPASYyysi8JVs8WdonXNWKwCHpDuyQ1fz+/x7uMmKDUubGyITd2ebKKaxLtCw==" /></div>
             <button
                 type="submit"
                 class="minibutton with-count"
@@ -438,9 +438,9 @@
         <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
           
 
-<a href="/Nykter/RepData_PeerAssessment1/blob/0cdb3cfb8b5d8fe6a14b34811eca1b5259d6eb68/README.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/Nykter/RepData_PeerAssessment1/blob/0cdb3cfb8b5d8fe6a14b34811eca1b5259d6eb68/PA1_template.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:d00195cd4fae54117ae20f5e0bc15281 -->
+<!-- blob contrib key: blob_contributors:v21:782efc748a5b0724f8c5bb20347c1b5c -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -485,7 +485,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/Nykter/RepData_PeerAssessment1/blob/master/README.md"
+               href="/Nykter/RepData_PeerAssessment1/blob/master/PA1_template.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -524,11 +524,11 @@
   </div>
 
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Nykter/RepData_PeerAssessment1" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">RepData_PeerAssessment1</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Nykter/RepData_PeerAssessment1" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">RepData_PeerAssessment1</span></a></span></span><span class="separator">/</span><strong class="final-path">PA1_template.md</strong>
   </div>
 </div>
 
-<include-fragment class="commit commit-loader file-history-tease" src="/Nykter/RepData_PeerAssessment1/contributors/master/README.md">
+<include-fragment class="commit commit-loader file-history-tease" src="/Nykter/RepData_PeerAssessment1/contributors/master/PA1_template.md">
   <div class="file-history-tease-header">
     Fetching contributors&hellip;
   </div>
@@ -542,17 +542,17 @@
   <div class="file-header">
     <div class="file-actions">
       <div class="button-group">
-        <a href="/Nykter/RepData_PeerAssessment1/raw/master/README.md" class="minibutton " id="raw-url">Raw</a>
-          <a href="/Nykter/RepData_PeerAssessment1/blame/master/README.md" class="minibutton js-update-url-with-hash">Blame</a>
-        <a href="/Nykter/RepData_PeerAssessment1/commits/master/README.md" class="minibutton " rel="nofollow">History</a>
+        <a href="/Nykter/RepData_PeerAssessment1/raw/master/PA1_template.md" class="minibutton " id="raw-url">Raw</a>
+          <a href="/Nykter/RepData_PeerAssessment1/blame/master/PA1_template.md" class="minibutton js-update-url-with-hash">Blame</a>
+        <a href="/Nykter/RepData_PeerAssessment1/commits/master/PA1_template.md" class="minibutton " rel="nofollow">History</a>
       </div><!-- /.button-group -->
 
         <a class="octicon-button tooltipped tooltipped-nw"
-           href="github-windows://openRepo/https://github.com/Nykter/RepData_PeerAssessment1?branch=master&amp;filepath=README.md" aria-label="Open this file in GitHub for Windows">
+           href="github-windows://openRepo/https://github.com/Nykter/RepData_PeerAssessment1?branch=master&amp;filepath=PA1_template.md" aria-label="Open this file in GitHub for Windows">
             <span class="octicon octicon-device-desktop"></span>
         </a>
 
-            <form accept-charset="UTF-8" action="/Nykter/RepData_PeerAssessment1/edit/master/README.md" aria-label="Clicking this button will fork this project so you can edit the file" class="tooltipped tooltipped-s inline-form edit-file-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="YXEQOMFj485y+r8WCwxqMZ9MaSMBRZTxI6dClLUTOO/1tZmmQoEjROck11lxPE6shov0xdxEelq/1+EI+MT1Fw==" /></div>
+            <form accept-charset="UTF-8" action="/Nykter/RepData_PeerAssessment1/edit/master/PA1_template.md" aria-label="Clicking this button will fork this project so you can edit the file" class="tooltipped tooltipped-s inline-form edit-file-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="o2l09WK+ZBFcjpIB2zK0L4GDWli4KzSNltis0o1yBoChgBeNA+fdXRNcK3OyGgkauqYA6bDQNuwADwbAoujZ7g==" /></div>
               <button class="web-edit-button"
                       type="submit"
                       data-hotkey="e"
@@ -560,7 +560,7 @@
                 <span class="octicon octicon-pencil"></span>
               </button>
 </form>
-          <form accept-charset="UTF-8" action="/Nykter/RepData_PeerAssessment1/delete/master/README.md" aria-label="Fork this project and delete file" class="tooltipped tooltipped-s inline-form delete-file-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Xvkd1LnqcDZOcDVLBLlDA51t+dPIJopHO48AjL6fTidRz3C3HKpb6oPNQqEG8ZqKxQ6zsbi+HbnZXWvDX6pcJA==" /></div>
+          <form accept-charset="UTF-8" action="/Nykter/RepData_PeerAssessment1/delete/master/PA1_template.md" aria-label="Fork this project and delete file" class="tooltipped tooltipped-s inline-form delete-file-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="igP/8e/GHT8W8a/JG5XeTIYHdNDqasjePuBFvlcAO2jeFjrbEQcx4ANA6XTKI1zVKcW6prB35DgZC22ERhFTIQ==" /></div>
             <button class="web-edit-button"
                     type="submit"
                     data-disable-with>
@@ -569,178 +569,275 @@
 </form>      </a>
     </div><!-- /.actions -->
     <div class="file-info">
-        169 lines (103 sloc)
+        286 lines (195 sloc)
         <span class="file-info-divider"></span>
-      7.778 kb
+      9.851 kb
     </div>
   </div>
     <div id="readme" class="blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="mainContentOfPage"><h2>
-<a id="user-content-introduction" class="anchor" href="#introduction" aria-hidden="true"><span class="octicon octicon-link"></span></a>Introduction</h2>
-
-<p>It is now possible to collect a large amount of data about personal
-movement using activity monitoring devices such as a
-<a href="http://www.fitbit.com">Fitbit</a>, <a href="http://www.nike.com/us/en_us/c/nikeplus-fuelband">Nike
-Fuelband</a>, or
-<a href="https://jawbone.com/up">Jawbone Up</a>. These type of devices are part of
-the "quantified self" movement -- a group of enthusiasts who take
-measurements about themselves regularly to improve their health, to
-find patterns in their behavior, or because they are tech geeks. But
-these data remain under-utilized both because the raw data are hard to
-obtain and there is a lack of statistical methods and software for
-processing and interpreting the data.</p>
-
-<p>This assignment makes use of data from a personal activity monitoring
-device. This device collects data at 5 minute intervals through out the
-day. The data consists of two months of data from an anonymous
-individual collected during the months of October and November, 2012
-and include the number of steps taken in 5 minute intervals each day.</p>
-
-<h2>
-<a id="user-content-data" class="anchor" href="#data" aria-hidden="true"><span class="octicon octicon-link"></span></a>Data</h2>
-
-<p>The data for this assignment can be downloaded from the course web
-site:</p>
-
-<ul class="task-list">
-<li>Dataset: <a href="https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip">Activity monitoring data</a> [52K]</li>
-</ul>
-
-<p>The variables included in this dataset are:</p>
-
-<ul class="task-list">
-<li><p><strong>steps</strong>: Number of steps taking in a 5-minute interval (missing
-values are coded as <code>NA</code>)</p></li>
-<li><p><strong>date</strong>: The date on which the measurement was taken in YYYY-MM-DD
-format</p></li>
-<li><p><strong>interval</strong>: Identifier for the 5-minute interval in which
-measurement was taken</p></li>
-</ul>
-
-<p>The dataset is stored in a comma-separated-value (CSV) file and there
-are a total of 17,568 observations in this
-dataset.</p>
-
-<h2>
-<a id="user-content-assignment" class="anchor" href="#assignment" aria-hidden="true"><span class="octicon octicon-link"></span></a>Assignment</h2>
-
-<p>This assignment will be described in multiple parts. You will need to
-write a report that answers the questions detailed below. Ultimately,
-you will need to complete the entire assignment in a <strong>single R
-markdown</strong> document that can be processed by <strong>knitr</strong> and be
-transformed into an HTML file.</p>
-
-<p>Throughout your report make sure you always include the code that you
-used to generate the output you present. When writing code chunks in
-the R markdown document, always use <code>echo = TRUE</code> so that someone else
-will be able to read the code. <strong>This assignment will be evaluated via
-peer assessment so it is essential that your peer evaluators be able
-to review the code for your analysis</strong>.</p>
-
-<p>For the plotting aspects of this assignment, feel free to use any
-plotting system in R (i.e., base, lattice, ggplot2)</p>
-
-<p>Fork/clone the <a href="http://github.com/rdpeng/RepData_PeerAssessment1">GitHub repository created for this
-assignment</a>. You
-will submit this assignment by pushing your completed files into your
-forked repository on GitHub. The assignment submission will consist of
-the URL to your GitHub repository and the SHA-1 commit ID for your
-repository state.</p>
-
-<p>NOTE: The GitHub repository also contains the dataset for the
-assignment so you do not have to download the data separately.</p>
+    <article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1>
+<a id="user-content-reproducible-research-peer-assessment-1" class="anchor" href="#reproducible-research-peer-assessment-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>Reproducible Research: Peer Assessment 1</h1>
 
 <h3>
-<a id="user-content-loading-and-preprocessing-the-data" class="anchor" href="#loading-and-preprocessing-the-data" aria-hidden="true"><span class="octicon octicon-link"></span></a>Loading and preprocessing the data</h3>
+<a id="user-content-ricardo-merino-raldua" class="anchor" href="#ricardo-merino-raldua" aria-hidden="true"><span class="octicon octicon-link"></span></a><em>Ricardo Merino Raldua</em>
+</h3>
 
-<p>Show any code that is needed to</p>
+<p><strong>Saturday, October 19, 2014</strong></p>
+
+<p><strong>Github repo with RMarkdown source code:</strong> <a href="https://github.com/Nykter/RepData_PeerAssessment1">github.com/Nykter/RepData_PeerAssessment1</a></p>
+
+<p><br></p>
+
+<h2>
+<a id="user-content-summary" class="anchor" href="#summary" aria-hidden="true"><span class="octicon octicon-link"></span></a>Summary</h2>
+
+<p>This document presents the results of the Reproducible Research Peer Assessment 1 in a report using knitr and transforming an R Markdown document into an HTML file.</p>
+
+<p>Through this report you can see that activities on weekdays mostly follow a work related routine with a pronounced peak maybe related to a sport routine, and a more regular distribution of activity on weekends.</p>
+
+<p><br></p>
+
+<h2>
+<a id="user-content-prepare-the-environment" class="anchor" href="#prepare-the-environment" aria-hidden="true"><span class="octicon octicon-link"></span></a>Prepare the environment</h2>
+
+<p>Load "knitr", "gridExtra", "ggplot2", "plyr" and "dplyr" packages. And set "echo", "results" and "tidy" as global options for knitr.</p>
+
+<div class="highlight highlight-r"><pre>library(<span class="pl-vo">knitr</span>)
+library(<span class="pl-vo">gridExtra</span>)
+library(<span class="pl-vo">ggplot2</span>)
+library(<span class="pl-vo">plyr</span>)
+library(<span class="pl-vo">dplyr</span>)
+<span class="pl-vo">opts_chunk</span><span class="pl-k">$</span>set(<span class="pl-v">echo</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>, <span class="pl-v">results</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>hold<span class="pl-pds">"</span></span>, <span class="pl-v">tidy</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)</pre></div>
+
+<p><br></p>
+
+<h2>
+<a id="user-content-loading-and-preprocessing-the-data" class="anchor" href="#loading-and-preprocessing-the-data" aria-hidden="true"><span class="octicon octicon-link"></span></a>Loading and preprocessing the data</h2>
+
+<p>This assignment makes use of data from a personal activity monitoring device. This device collects data at 5 minute intervals throughout the day. The data consists of two months of data from an anonymous individual and include the number of steps taken in 5 minute intervals each day.</p>
+
+<p>To load and preprocess the data, I proceed as follows:</p>
 
 <ol class="task-list">
-<li><p>Load the data (i.e. <code>read.csv()</code>)</p></li>
-<li><p>Process/transform the data (if necessary) into a format suitable for your analysis</p></li>
+<li>Check if the .zip file already exists in the working directory and if not download it from the <a href="https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip">link</a> stated in the assessment.</li>
+<li>Unzip the .zip file.</li>
+<li>Read the .csv file defining the columns classes.
+
+<ul class="task-list">
+<li>Set column "interval" as factor.</li>
+<li>Set column "date" as Date.</li>
+</ul>
+</li>
+<li>Assign the result to the variable 'tbl'.</li>
 </ol>
+
+<div class="highlight highlight-r"><pre><span class="pl-en">read_data</span> <span class="pl-k">&lt;-</span> <span class="pl-k">function</span>() {
+    <span class="pl-v">file_name</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>activity.zip<span class="pl-pds">"</span></span>
+    <span class="pl-v">Url</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip<span class="pl-pds">"</span></span>
+    <span class="pl-k">if</span> (<span class="pl-k">!</span>file.exists(<span class="pl-vo">file_name</span>)) {
+        download.file(<span class="pl-vo">Url</span>, <span class="pl-v">destfile</span> <span class="pl-k">=</span> <span class="pl-vo">file_name</span>)
+    }
+    <span class="pl-vo">csv_file</span> <span class="pl-k">&lt;-</span> unz(<span class="pl-vo">file_name</span>, <span class="pl-s1"><span class="pl-pds">"</span>activity.csv<span class="pl-pds">"</span></span>)
+    <span class="pl-vo">tbl</span> <span class="pl-k">&lt;-</span> read.csv(<span class="pl-vo">csv_file</span>, <span class="pl-v">header</span> <span class="pl-k">=</span> <span class="pl-c1">T</span>, <span class="pl-v">colClasses</span> <span class="pl-k">=</span> c(<span class="pl-s1"><span class="pl-pds">"</span>numeric<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>character<span class="pl-pds">"</span></span>, 
+        <span class="pl-s1"><span class="pl-pds">"</span>numeric<span class="pl-pds">"</span></span>))
+    <span class="pl-vo">tbl</span><span class="pl-k">$</span><span class="pl-vo">interval</span> <span class="pl-k">&lt;-</span> <span class="pl-st">factor</span>(<span class="pl-vo">tbl</span><span class="pl-k">$</span><span class="pl-vo">interval</span>)
+    <span class="pl-vo">tbl</span><span class="pl-k">$</span><span class="pl-vo">date</span> <span class="pl-k">&lt;-</span> as.Date(<span class="pl-vo">tbl</span><span class="pl-k">$</span><span class="pl-vo">date</span>, <span class="pl-v">format</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>%Y-%m-%d<span class="pl-pds">"</span></span>)
+    <span class="pl-vo">tbl</span>
+}
+<span class="pl-vo">tbl</span> <span class="pl-k">&lt;-</span> suppressWarnings(read_data())</pre></div>
+
+<p><br></p>
+
+<h2>
+<a id="user-content-questions-in-this-peer-assessment" class="anchor" href="#questions-in-this-peer-assessment" aria-hidden="true"><span class="octicon octicon-link"></span></a>Questions in this Peer Assessment</h2>
 
 <h3>
 <a id="user-content-what-is-mean-total-number-of-steps-taken-per-day" class="anchor" href="#what-is-mean-total-number-of-steps-taken-per-day" aria-hidden="true"><span class="octicon octicon-link"></span></a>What is mean total number of steps taken per day?</h3>
 
-<p>For this part of the assignment, you can ignore the missing values in
-the dataset.</p>
+<p>We can see that our data consists of three variables:</p>
 
-<ol class="task-list">
-<li><p>Make a histogram of the total number of steps taken each day</p></li>
-<li><p>Calculate and report the <strong>mean</strong> and <strong>median</strong> total number of steps taken per day</p></li>
-</ol>
+<ul class="task-list">
+<li>
+<strong>steps</strong>: The number of steps for each interval.</li>
+<li>
+<strong>date</strong>: The day, month and year the data was taken.</li>
+<li>
+<strong>interval</strong>: The 5-minute interval of the day.</li>
+</ul>
+
+<p>For this part of the assignment, we can ignore the missing values (NA) in the dataset.</p>
+
+<p>I make the aggregation of the steps by date using 'dplyr' and a histogram of the total number of steps taken each day using 'ggplot'. Plotted with a bin interval of 1000 steps.</p>
+
+<div class="highlight highlight-r"><pre><span class="pl-vo">day_total</span> <span class="pl-k">&lt;-</span> <span class="pl-vo">tbl</span> %<span class="pl-k">&gt;</span>%
+            group_by(<span class="pl-vo">date</span>) %<span class="pl-k">&gt;</span>%
+            summarise(<span class="pl-v">total</span> <span class="pl-k">=</span> sum(<span class="pl-vo">steps</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">T</span>))</pre></div>
+
+<div class="highlight highlight-r"><pre>ggplot(<span class="pl-vo">day_total</span>, aes(<span class="pl-v">x</span><span class="pl-k">=</span><span class="pl-vo">total</span>)) <span class="pl-k">+</span> 
+      geom_histogram(aes(<span class="pl-v">fill</span> <span class="pl-k">=</span> ..<span class="pl-vo">count</span>..), <span class="pl-v">origin</span><span class="pl-k">=</span><span class="pl-c1">0.1</span>, <span class="pl-v">binwidth</span><span class="pl-k">=</span><span class="pl-c1">1000</span>)</pre></div>
+
+<p><a href="/Nykter/RepData_PeerAssessment1/blob/master/figure/unnamed-chunk-4-1.png" target="_blank"><img src="/Nykter/RepData_PeerAssessment1/raw/master/figure/unnamed-chunk-4-1.png" alt="plot of chunk unnamed-chunk-4" style="max-width:100%;"></a> </p>
+
+<p><br>
+Finally, I calculate and report the mean and median total number of steps taken per day keeping in mind that NA's doesn't count for this calculation.</p>
+
+<div class="highlight highlight-r"><pre><span class="pl-vo">day_total</span>[<span class="pl-vo">day_total</span> <span class="pl-k">==</span> <span class="pl-c1">0</span>] <span class="pl-k">&lt;-</span> <span class="pl-c1">NA</span>
+
+<span class="pl-en">summary_total</span> <span class="pl-k">&lt;-</span> <span class="pl-k">function</span>(<span class="pl-vo">x</span>) {
+    <span class="pl-vo">funs</span> <span class="pl-k">&lt;-</span> c(<span class="pl-v">mean</span> <span class="pl-k">=</span> <span class="pl-vo">mean</span>, <span class="pl-v">median</span> <span class="pl-k">=</span> <span class="pl-vo">median</span>)
+    lapply(<span class="pl-vo">funs</span>, <span class="pl-k">function</span>(<span class="pl-vo">f</span>) f(<span class="pl-vo">x</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">T</span>))
+}
+summary_total(<span class="pl-vo">day_total</span><span class="pl-k">$</span><span class="pl-vo">total</span>)</pre></div>
+
+<pre><code>## $mean
+## [1] 10766.19
+## 
+## $median
+## [1] 10765
+</code></pre>
+
+<p>The Mean is <strong>10766.19</strong> and the Median is <strong>10765</strong>.</p>
+
+<p><br></p>
 
 <h3>
 <a id="user-content-what-is-the-average-daily-activity-pattern" class="anchor" href="#what-is-the-average-daily-activity-pattern" aria-hidden="true"><span class="octicon octicon-link"></span></a>What is the average daily activity pattern?</h3>
 
-<ol class="task-list">
-<li><p>Make a time series plot (i.e. <code>type = "l"</code>) of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all days (y-axis)</p></li>
-<li><p>Which 5-minute interval, on average across all the days in the dataset, contains the maximum number of steps?</p></li>
-</ol>
+<p>For this question I make a time series plot of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all days (y-axis). I do this grouping by interval and summarising the mean of the number of steps.</p>
+
+<div class="highlight highlight-r"><pre><span class="pl-vo">day_avg</span> <span class="pl-k">&lt;-</span> <span class="pl-vo">tbl</span> %<span class="pl-k">&gt;</span>%
+            group_by(<span class="pl-vo">interval</span>) %<span class="pl-k">&gt;</span>%
+            summarise(<span class="pl-v">avg_steps</span> <span class="pl-k">=</span> mean(<span class="pl-vo">steps</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">T</span>))</pre></div>
+
+<p>Then, I plot the result with 'ggplot' with the time series of the average number of steps taken.</p>
+
+<div class="highlight highlight-r"><pre>ggplot(<span class="pl-vo">day_avg</span>, aes(<span class="pl-v">x</span> <span class="pl-k">=</span> <span class="pl-vo">interval</span>, <span class="pl-v">y</span> <span class="pl-k">=</span> <span class="pl-vo">avg_steps</span>, <span class="pl-v">group</span> <span class="pl-k">=</span> <span class="pl-c1">1</span>)) <span class="pl-k">+</span> 
+      geom_line() <span class="pl-k">+</span> scale_x_discrete(<span class="pl-v">breaks</span> <span class="pl-k">=</span> seq(<span class="pl-c1">0</span>, <span class="pl-c1">2500</span>, <span class="pl-c1">500</span>))</pre></div>
+
+<p><a href="/Nykter/RepData_PeerAssessment1/blob/master/figure/unnamed-chunk-7-1.png" target="_blank"><img src="/Nykter/RepData_PeerAssessment1/raw/master/figure/unnamed-chunk-7-1.png" alt="plot of chunk unnamed-chunk-7" style="max-width:100%;"></a> </p>
+
+<p>Now, I find the 5-minute interval which contains the maximum number of steps, realising that it coincides with the peak shown graphically.</p>
+
+<div class="highlight highlight-r"><pre><span class="pl-vo">day_avg</span>[which.max(<span class="pl-vo">day_avg</span><span class="pl-k">$</span><span class="pl-vo">avg_steps</span>), ]</pre></div>
+
+<pre><code>## Source: local data frame [1 x 2]
+## 
+##   interval avg_steps
+## 1      835  206.1698
+</code></pre>
+
+<p>The <strong>835th</strong> 5-minute interval contains the maximum number of steps.</p>
+
+<p><br></p>
 
 <h3>
 <a id="user-content-imputing-missing-values" class="anchor" href="#imputing-missing-values" aria-hidden="true"><span class="octicon octicon-link"></span></a>Imputing missing values</h3>
 
-<p>Note that there are a number of days/intervals where there are missing
-values (coded as <code>NA</code>). The presence of missing days may introduce
-bias into some calculations or summaries of the data.</p>
+<p>As there are a number of days/intervals where there are missing values (coded as NA). The presence of missing days may introduce bias into some calculations or summaries of the data.</p>
 
-<ol class="task-list">
-<li><p>Calculate and report the total number of missing values in the dataset (i.e. the total number of rows with <code>NA</code>s)</p></li>
-<li><p>Devise a strategy for filling in all of the missing values in the dataset. The strategy does not need to be sophisticated. For example, you could use the mean/median for that day, or the mean for that 5-minute interval, etc.</p></li>
-<li><p>Create a new dataset that is equal to the original dataset but with the missing data filled in.</p></li>
-<li><p>Make a histogram of the total number of steps taken each day and Calculate and report the <strong>mean</strong> and <strong>median</strong> total number of steps taken per day. Do these values differ from the estimates from the first part of the assignment? What is the impact of imputing missing data on the estimates of the total daily number of steps?</p></li>
-</ol>
+<p>To verify if this bias is produced, first I calculate and report the total number of missing values in the dataset.</p>
+
+<div class="highlight highlight-r"><pre>sum(is.na(<span class="pl-vo">tbl</span>))</pre></div>
+
+<pre><code>## [1] 2304
+</code></pre>
+
+<p>There are <strong>2304</strong> NA's (8 days of the data).</p>
+
+<p>Next, I fill in all of the missing values in the dataset using the mean for that 5-minute interval. I do this by binding a column with the means of steps per 5-minute interval and replacing every NA I find in an interval for its mean. Finally I subset the 3 original columns.</p>
+
+<div class="highlight highlight-r"><pre><span class="pl-vo">tbl_noNA</span> <span class="pl-k">&lt;-</span> cbind(<span class="pl-vo">tbl</span>, <span class="pl-vo">day_avg</span>)
+<span class="pl-vo">tbl_noNA</span><span class="pl-k">$</span><span class="pl-vo">steps</span>[is.na(<span class="pl-vo">tbl_noNA</span><span class="pl-k">$</span><span class="pl-vo">steps</span>)] <span class="pl-k">&lt;-</span> <span class="pl-vo">tbl_noNA</span><span class="pl-k">$</span><span class="pl-vo">avg_steps</span>[is.na(<span class="pl-vo">tbl_noNA</span><span class="pl-k">$</span><span class="pl-vo">steps</span>)]
+<span class="pl-vo">tbl_noNA</span> <span class="pl-k">&lt;-</span> <span class="pl-vo">tbl_noNA</span>[, <span class="pl-c1">1</span><span class="pl-k">:</span><span class="pl-c1">3</span>]</pre></div>
+
+<p>Next, I make a histogram of the total number of steps taken each day as we did with the original data with NA's.
+I make the aggregation of the steps by date using 'dplyr' and a histogram of the total number of steps taken each day using 'ggplot'. Plotted with a bin interval of 1000 steps.</p>
+
+<div class="highlight highlight-r"><pre><span class="pl-vo">day_totalnoNA</span> <span class="pl-k">&lt;-</span> <span class="pl-vo">tbl_noNA</span> %<span class="pl-k">&gt;</span>%
+            group_by(<span class="pl-vo">date</span>) %<span class="pl-k">&gt;</span>%
+            summarise(<span class="pl-v">total</span> <span class="pl-k">=</span> sum(<span class="pl-vo">steps</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">T</span>))</pre></div>
+
+<p>I plot the original data and the data with filled NA's to compare them.</p>
+
+<div class="highlight highlight-r"><pre><span class="pl-vo">g1</span> <span class="pl-k">&lt;-</span> ggplot(<span class="pl-vo">day_total</span>, aes(<span class="pl-v">x</span> <span class="pl-k">=</span> <span class="pl-vo">total</span>)) <span class="pl-k">+</span> 
+      geom_histogram(aes(<span class="pl-v">fill</span> <span class="pl-k">=</span> ..<span class="pl-vo">count</span>..), <span class="pl-v">origin</span><span class="pl-k">=</span><span class="pl-c1">0.1</span>, <span class="pl-v">binwidth</span><span class="pl-k">=</span><span class="pl-c1">1000</span>) <span class="pl-k">+</span> 
+      ylim(<span class="pl-c1">0</span>,<span class="pl-c1">19</span>) <span class="pl-k">+</span> xlab(<span class="pl-s1"><span class="pl-pds">"</span>original data with NA's<span class="pl-pds">"</span></span>)
+<span class="pl-vo">g2</span> <span class="pl-k">&lt;-</span> ggplot(<span class="pl-vo">day_totalnoNA</span>, aes(<span class="pl-v">x</span> <span class="pl-k">=</span> <span class="pl-vo">total</span>)) <span class="pl-k">+</span> 
+      geom_histogram(aes(<span class="pl-v">fill</span> <span class="pl-k">=</span> ..<span class="pl-vo">count</span>..), <span class="pl-v">origin</span><span class="pl-k">=</span><span class="pl-c1">0.1</span>, <span class="pl-v">binwidth</span><span class="pl-k">=</span><span class="pl-c1">1000</span>) <span class="pl-k">+</span> 
+      ylim(<span class="pl-c1">0</span>,<span class="pl-c1">19</span>) <span class="pl-k">+</span> xlab(<span class="pl-s1"><span class="pl-pds">"</span>data with filled NA's<span class="pl-pds">"</span></span>)
+grid.arrange(<span class="pl-vo">g1</span>, <span class="pl-vo">g2</span>, <span class="pl-v">ncol</span> <span class="pl-k">=</span> <span class="pl-c1">2</span>)</pre></div>
+
+<p><a href="/Nykter/RepData_PeerAssessment1/blob/master/figure/unnamed-chunk-12-1.png" target="_blank"><img src="/Nykter/RepData_PeerAssessment1/raw/master/figure/unnamed-chunk-12-1.png" alt="plot of chunk unnamed-chunk-12" style="max-width:100%;"></a> </p>
+
+<p>Finally, I calculate and report the mean and median total number of steps taken per day. </p>
+
+<div class="highlight highlight-r"><pre><span class="pl-en">summary_totalnoNA</span> <span class="pl-k">&lt;-</span> <span class="pl-k">function</span>(<span class="pl-vo">x</span>) {
+    <span class="pl-vo">funs</span> <span class="pl-k">&lt;-</span> c(<span class="pl-v">mean</span> <span class="pl-k">=</span> <span class="pl-vo">mean</span>, <span class="pl-v">median</span> <span class="pl-k">=</span> <span class="pl-vo">median</span>)
+    lapply(<span class="pl-vo">funs</span>, <span class="pl-k">function</span>(<span class="pl-vo">f</span>) f(<span class="pl-vo">x</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">T</span>))
+}
+summary_totalnoNA(<span class="pl-vo">day_totalnoNA</span><span class="pl-k">$</span><span class="pl-vo">total</span>)</pre></div>
+
+<pre><code>## $mean
+## [1] 10766.19
+## 
+## $median
+## [1] 10766.19
+</code></pre>
+
+<p>Mean after populate missing values is <strong>10766.19</strong>. Median after populate missing values is <strong>10766.19</strong>.</p>
+
+<p>Comparing with the calculations done in the first section of this document, we observe that the mean value remains unchanged and the median value now matches the mean value.</p>
+
+<p>We can see that our data resembles a t-student distribution, because the impact of imputing missing values has been an increase of the central peak (from 10 to 18 observations), but doesn't affect the other measurements and so doesn't have a great influence on our predictions.</p>
+
+<p><br></p>
 
 <h3>
 <a id="user-content-are-there-differences-in-activity-patterns-between-weekdays-and-weekends" class="anchor" href="#are-there-differences-in-activity-patterns-between-weekdays-and-weekends" aria-hidden="true"><span class="octicon octicon-link"></span></a>Are there differences in activity patterns between weekdays and weekends?</h3>
 
-<p>For this part the <code>weekdays()</code> function may be of some help here. Use
-the dataset with the filled-in missing values for this part.</p>
+<p>For this part, using the dataset with the filled-in missing values, I create a new factor variable in the dataset with two levels - "weekday" and "weekend" indicating whether a given date is a weekday or weekend day. I do this by:</p>
 
-<ol class="task-list">
-<li><p>Create a new factor variable in the dataset with two levels -- "weekday" and "weekend" indicating whether a given date is a weekday or weekend day.</p></li>
-<li><p>Make a panel plot containing a time series plot (i.e. <code>type = "l"</code>) of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis). The plot should look something like the following, which was created using <strong>simulated data</strong>:</p></li>
-</ol>
+<ul class="task-list">
+<li>Create a new column using 'mutate' with the abbreviated day of the week.</li>
+<li>Use 'revalue' to rename the factors to 'Weekday' and 'Weekend'.</li>
+<li>Subset by each factor.</li>
+<li>Aggregate the mean of the steps by interval of each set.</li>
+<li>Rename columns.</li>
+<li>Bind both sets.</li>
+</ul>
 
-<p><a href="/Nykter/RepData_PeerAssessment1/blob/master/instructions_fig/sample_panelplot.png" target="_blank"><img src="/Nykter/RepData_PeerAssessment1/raw/master/instructions_fig/sample_panelplot.png" alt="Sample panel plot" style="max-width:100%;"></a> </p>
+<div class="highlight highlight-r"><pre><span class="pl-vo">tbl_days</span> <span class="pl-k">&lt;-</span> <span class="pl-vo">tbl_noNA</span> %<span class="pl-k">&gt;</span>%
+            mutate(<span class="pl-v">type_of_day</span> <span class="pl-k">=</span> as.factor(format(<span class="pl-vo">date</span>,<span class="pl-s1"><span class="pl-pds">"</span>%a<span class="pl-pds">"</span></span>)))
 
-<p><strong>Your plot will look different from the one above</strong> because you will
-be using the activity monitor data. Note that the above plot was made
-using the lattice system but you can make the same version of the plot
-using any plotting system you choose.</p>
+<span class="pl-vo">tbl_days</span><span class="pl-k">$</span><span class="pl-vo">type_of_day</span> <span class="pl-k">&lt;-</span> revalue(<span class="pl-vo">tbl_days</span><span class="pl-k">$</span><span class="pl-vo">type_of_day</span>, c(<span class="pl-s1"><span class="pl-pds">"</span>Mon<span class="pl-pds">"</span></span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">"</span>Weekday<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>Tue<span class="pl-pds">"</span></span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">"</span>Weekday<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>Wed<span class="pl-pds">"</span></span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">"</span>Weekday<span class="pl-pds">"</span></span>, 
+                                                        <span class="pl-s1"><span class="pl-pds">"</span>Thu<span class="pl-pds">"</span></span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">"</span>Weekday<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>Fri<span class="pl-pds">"</span></span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">"</span>Weekday<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>Sat<span class="pl-pds">"</span></span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">"</span>Weekend<span class="pl-pds">"</span></span>, 
+                                                        <span class="pl-s1"><span class="pl-pds">"</span>Sun<span class="pl-pds">"</span></span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">"</span>Weekend<span class="pl-pds">"</span></span>))
+<span class="pl-vo">tbl_weekday</span> <span class="pl-k">&lt;-</span> subset(<span class="pl-vo">tbl_days</span>, <span class="pl-vo">type_of_day</span> <span class="pl-k">==</span> <span class="pl-s1"><span class="pl-pds">"</span>Weekday<span class="pl-pds">"</span></span>)
+<span class="pl-vo">tbl_weekend</span> <span class="pl-k">&lt;-</span> subset(<span class="pl-vo">tbl_days</span>, <span class="pl-vo">type_of_day</span> <span class="pl-k">==</span> <span class="pl-s1"><span class="pl-pds">"</span>Weekend<span class="pl-pds">"</span></span>)
 
-<h2>
-<a id="user-content-submitting-the-assignment" class="anchor" href="#submitting-the-assignment" aria-hidden="true"><span class="octicon octicon-link"></span></a>Submitting the Assignment</h2>
+<span class="pl-vo">weekday_avg</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-vo">tbl_weekday</span><span class="pl-k">$</span><span class="pl-vo">steps</span>, <span class="pl-st">list</span>(<span class="pl-vo">tbl_weekday</span><span class="pl-k">$</span><span class="pl-vo">interval</span>,<span class="pl-vo">tbl_weekday</span><span class="pl-k">$</span><span class="pl-vo">type_of_day</span>), <span class="pl-vo">mean</span>)
+<span class="pl-vo">weekend_avg</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-vo">tbl_weekend</span><span class="pl-k">$</span><span class="pl-vo">steps</span>, <span class="pl-st">list</span>(<span class="pl-vo">tbl_weekend</span><span class="pl-k">$</span><span class="pl-vo">interval</span>,<span class="pl-vo">tbl_weekend</span><span class="pl-k">$</span><span class="pl-vo">type_of_day</span>), <span class="pl-vo">mean</span>)
 
-<p>To submit the assignment:</p>
+colnames(<span class="pl-vo">weekday_avg</span>) <span class="pl-k">&lt;-</span> c(<span class="pl-s1"><span class="pl-pds">"</span>interval<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>type_of_day<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>avg_steps<span class="pl-pds">"</span></span>)
+colnames(<span class="pl-vo">weekend_avg</span>) <span class="pl-k">&lt;-</span> c(<span class="pl-s1"><span class="pl-pds">"</span>interval<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>type_of_day<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>avg_steps<span class="pl-pds">"</span></span>)
 
-<ol class="task-list">
-<li><p>Commit your completed <code>PA1_template.Rmd</code> file to the <code>master</code> branch of your git repository (you should already be on the <code>master</code> branch unless you created new ones)</p></li>
-<li><p>Commit your <code>PA1_template.md</code> and <code>PA1_template.html</code> files produced by processing your R markdown file with the <code>knit2html()</code> function in R (from the <strong>knitr</strong> package)</p></li>
-<li><p>If your document has figures included (it should) then they should have been placed in the <code>figures/</code> directory by default (unless you overrode the default). Add and commit the <code>figures/</code> directory to your git repository.</p></li>
-<li><p>Push your <code>master</code> branch to GitHub.</p></li>
-<li><p>Submit the URL to your GitHub repository for this assignment on the course web site.</p></li>
-</ol>
+<span class="pl-vo">weekday_data</span> <span class="pl-k">&lt;-</span> rbind(<span class="pl-vo">weekday_avg</span>, <span class="pl-vo">weekend_avg</span>)</pre></div>
 
-<p>In addition to submitting the URL for your GitHub repository, you will
-need to submit the 40 character SHA-1 hash (as string of numbers from
-0-9 and letters from a-f) that identifies the repository commit that
-contains the version of the files you want to submit. You can do this
-in GitHub by doing the following:</p>
+<p>Next, I make a graph containing a time series plot of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis).</p>
 
-<ol class="task-list">
-<li><p>Go into your GitHub repository web page for this assignment</p></li>
-<li><p>Click on the "?? commits" link where ?? is the number of commits you have in the repository. For example, if you made a total of 10 commits to this repository, the link should say "10 commits".</p></li>
-<li><p>You will see a list of commits that you have made to this repository. The most recent commit is at the very top. If this represents the version of the files you want to submit, then just click the "copy to clipboard" button on the right hand side that should appear when you hover over the SHA-1 hash. Paste this SHA-1 hash into the course web site when you submit your assignment. If you don't want to use the most recent commit, then go down and find the commit you want and copy the SHA-1 hash.</p></li>
-</ol>
+<div class="highlight highlight-r"><pre>ggplot(<span class="pl-vo">weekday_data</span>, aes(<span class="pl-v">x</span><span class="pl-k">=</span><span class="pl-vo">interval</span>, <span class="pl-v">y</span><span class="pl-k">=</span><span class="pl-vo">avg_steps</span>, <span class="pl-v">group</span><span class="pl-k">=</span><span class="pl-c1">1</span>)) <span class="pl-k">+</span> geom_line() <span class="pl-k">+</span> 
+      scale_x_discrete(<span class="pl-v">breaks</span><span class="pl-k">=</span>seq(<span class="pl-c1">0</span>,<span class="pl-c1">2500</span>,<span class="pl-c1">500</span>)) <span class="pl-k">+</span> 
+      facet_wrap(<span class="pl-k">~</span> <span class="pl-vo">type_of_day</span>, <span class="pl-v">nrow</span><span class="pl-k">=</span><span class="pl-c1">2</span>) <span class="pl-k">+</span> 
+      ylab(<span class="pl-s1"><span class="pl-pds">"</span>Number of steps<span class="pl-pds">"</span></span>)</pre></div>
 
-<p>A valid submission will look something like (this is just an <strong>example</strong>!)</p>
+<p><a href="/Nykter/RepData_PeerAssessment1/blob/master/figure/unnamed-chunk-15-1.png" target="_blank"><img src="/Nykter/RepData_PeerAssessment1/raw/master/figure/unnamed-chunk-15-1.png" alt="plot of chunk unnamed-chunk-15" style="max-width:100%;"></a> </p>
 
-<div class="highlight highlight-r"><pre><span class="pl-vo">https</span><span class="pl-k">:</span><span class="pl-k">//</span><span class="pl-vo">github.com</span><span class="pl-k">/</span><span class="pl-vo">rdpeng</span><span class="pl-k">/</span><span class="pl-vo">RepData_PeerAssessment1</span>
+<h3>
+<a id="user-content-conclusion" class="anchor" href="#conclusion" aria-hidden="true"><span class="octicon octicon-link"></span></a>Conclusion</h3>
 
-<span class="pl-ii">7c376cc5447f11537f8740af8e07d6facc3d9645</span></pre></div>
+<p>We can see at the graph above that activity on the weekday has the greatest peak from all steps intervals and that weekend's activities has more peaks over a hundred steps than weekdays. This could be due to the fact that activities on weekdays mostly follow a work related routine, maybe with a sport routine denoted by the peak over 200 steps. On the other hand, at weekend we can see a more regular distribution of effort/activities along the day.</p>
+
+<p><br></p>
 </article>
   </div>
 
@@ -780,7 +877,7 @@ in GitHub by doing the following:</p>
       <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2015 <span title="0.09527s from github-fe138-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2015 <span title="0.15241s from github-fe128-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
